@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "ipfs://orionfrontiers.zil"
 languageCode = "en-us"
 theme = "terminal"
 paginate = 5
